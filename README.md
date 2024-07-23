@@ -8,16 +8,16 @@ Our HWID Spoofer operates at ring 0, the lowest level of system access in operat
 
  The spoofer works for most games, including:
 
-Apex Legends
-Valorant
-Fortnite
-Call of Duty (Warzone / Modern Warfare 3)
-DayZ
-The Finals
-Escape from Tarkov (EFT)
-GTA V/5
-Rainbow Six Siege (R6s)
-Rust
-Overwatch
-Cs2
+- Apex Legends
+- Valorant
+- Fortnite
+- Call of Duty (Warzone / Modern Warfare 3)
+- DayZ
+- The Finals
+- Escape from Tarkov (EFT)
+- GTA V/5
+- Rainbow Six Siege (R6s)
+- Rust
+- Overwatch
+- Cs2
 
